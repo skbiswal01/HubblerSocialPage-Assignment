@@ -1,0 +1,68 @@
+.rightfeedboxcontent1 {
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+    margin-bottom : 10px;
+}
+.rightfeedboxhead {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.upcomingeventbox img {
+    width : 95%;
+    height : 100px;
+}
+
+.upcomingeventsdetails{
+    font-size: small;
+    color: gray;
+}
+
+
+.upcomingeventspermission {
+    margin-top: 5px;
+    font-size: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rightfeedrecentact {
+    border-left: 1px solid orangered;
+    
+    margin : 10px;
+    font-size : 12px;
+}
+
+.rightfeedrecentact div{
+    padding-left: 8px;
+}
+
+.viewallrecent {
+    background: none;
+	color: blue;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+}
+
+.rightprofilemember {
+    display: flex;
+    margin-top : 10px;
+}
+.rightprofilemember:hover{
+    background:rgb(156, 202, 231);
+    transition: all 0.5s;
+}
+.rightprofileimage1 {
+    margin-left: 10px;
+}
+.rightprofileimage img{
+    height : 30px;
+    width : 30px;
+    border-radius: 50%;
+}
+
+

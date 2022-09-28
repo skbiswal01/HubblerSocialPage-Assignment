@@ -1,0 +1,18 @@
+.leftfeedboxcontent {
+    background-color: white;
+    margin-top : 10px;
+    width: 100%;
+    padding: 10px;
+    
+}
+
+.leftfeedboxcontent1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.leftfeedboxicon1 {
+    font-weight: bold;
+}

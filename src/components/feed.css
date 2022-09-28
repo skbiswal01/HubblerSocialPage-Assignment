@@ -1,0 +1,26 @@
+.feedcontainer {
+    width : 70%;
+    margin : auto;
+    margin-top: 50px;
+    margin-left: 240px;
+    background-color: #eff2f7;
+    display: flex;
+}
+
+.leftfeedcontainer {
+    width : 20%;
+    padding: 10px;
+    margin-right : 10px;   
+}
+
+.middlefeedcontainer {
+    width: 45%;
+    padding: 10px 0px 10px 10px;
+    margin-right : 10px;
+}
+.rightfeedcontainer {
+    width: 20%;
+    padding: 10px;
+    margin-right : 10px;
+}
+

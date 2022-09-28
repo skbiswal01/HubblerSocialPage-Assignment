@@ -1,0 +1,73 @@
+.navbar {
+    display: flex;
+    height : 40px;
+    width : 100%;
+    background-color: white;
+    z-index: 2;
+    position: fixed;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+.logoicon {
+    width : 60px;
+    height: 30px;
+    margin-top: 4px;
+    margin-left : 50px;
+}
+
+.homenavicon{
+    padding: 4px;
+    margin: 4px;
+}
+.centernavbar {
+    width : 50vw;
+    height: 40px;
+    display: flex;
+    padding : 4px;
+    margin-left: 120px;
+}
+
+.centernavbar p{
+    padding : 4px;
+    margin: 3px;
+}
+
+.searchnavbar {
+    display: flex;
+    width : 300px;
+    padding: 4px;
+    margin-left: 60px;
+    align-items: center;     
+}
+
+.searchnavbar input{
+    width: 250px;
+    border:none;
+    outline-width: 0;
+}
+
+.searchnavbaricon {
+    padding: 6px;
+    margin : auto;
+    margin-top : 3px;
+}
+
+.searchnavbarinput{
+    margin: 4px;
+}
+
+.profilenavbaricon {
+   margin: 4px;
+   padding: 4px;
+}
+
+.profilenavbarimg {
+    padding-left: 4px;
+    margin-left: 4px;
+}
+.profilenavbarimg img{
+    
+    height : 30px;
+    width : 30px;
+    border-radius: 50%;
+}

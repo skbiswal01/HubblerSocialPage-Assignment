@@ -1,0 +1,71 @@
+
+.middlefeedcoverpic {
+    background-color: white;
+   padding-bottom : 20px;
+   margin-bottom: 5px;
+}
+.middlefeedcoverphoto img{
+    width: 100%;
+    height: 180px;
+}
+
+.coverprofiledetails {
+    margin-top : 5px;
+    display : flex;
+    align-items: center;
+}
+
+.coverprofileimage img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.verifiedicon {
+   margin-left: 350px;
+}
+
+.coverphotoeditoptions {
+    display: flex;
+    margin-left: 60px;
+    gap: 20px;
+
+}
+.coverphotoeditbtn {
+    background: #2453df;
+    color: white;
+    width : 140px;
+    height : 30px;
+    border-radius: 30px;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+    font-size: larger;
+}
+
+.coverphotoediticon {
+    width : 30px;
+    height : 30px;
+}
+
+.differentoption {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.differentoption button{
+    background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+}
+
+.differentoption button:hover{
+    
+    color: blue;
+    transition: all 0.5s;
+    
+}
